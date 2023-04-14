@@ -4,7 +4,7 @@
 <a href="https://black.readthedocs.io/en/stable/"><img alt="Code style: black" src="https://img.shields.io/badge/code%20style-black-black.svg?style=for-the-badge&labelColor=gray"></a>
 
 
-[Paper](https://dollarstreetfactors.metademolab.com/) | [Dashboard](https://dollarstreetfactors.metademolab.com/)
+[Paper](https://arxiv.org/abs/2304.05391) | [Dashboard](https://dollarstreetfactors.metademolab.com/)
 
 <img width="1710" alt="image" src="https://user-images.githubusercontent.com/6558776/229595599-fdb951b4-fd67-4075-92d3-665980400f63.png">
 
